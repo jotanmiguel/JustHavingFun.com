@@ -1,0 +1,40 @@
+/*Alterações gerais*/
+body{
+    margin:0;
+}
+
+/*Alterações navbar*/
+.navbar{
+    background-color: black;
+    list-style-type: none;
+    overflow: hidden;
+    box-shadow: 0px 6px 8px #cecece;
+}
+
+.navbar a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar-item, .navbar-login{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+
+/*Alterações footer*/
+.footer{
+    width: 100%;
+    text-align: center;
+}
+
+.footer-black{
+    background-color: black;
+}
+
+.footer-darkgray{
+    background-color: rgb(48, 48, 48);
+}

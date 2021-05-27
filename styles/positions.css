@@ -1,0 +1,25 @@
+/*Alterações gerais*/
+body{
+
+}
+
+/*Alterações navbar*/
+.navbar{
+
+}
+
+.navbar-item, .navbar-login{
+    float: left;
+}
+
+.navbar-login{
+    float: right;
+}
+
+/*Alterações footer*/
+.footer{
+    position: fixed;
+    margin-bottom: 0;
+    bottom: 0;
+    left: 0;
+}
