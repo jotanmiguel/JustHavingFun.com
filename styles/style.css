@@ -25,6 +25,11 @@ body{
     display: block;
 }
 
+/*Alterações titulo*/
+.titulo{
+    font-size: 300%;
+}
+
 /*Alterações footer*/
 .footer{
     width: 100%;

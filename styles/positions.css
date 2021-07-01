@@ -1,11 +1,14 @@
-/*Alterações gerais*/
+/*Alterações gerais
 body{
 
 }
+*/
 
 /*Alterações navbar*/
 .navbar{
-
+    z-index: 11;
+    position: relative;
+    width: 100%;
 }
 
 .navbar-item, .navbar-login{
@@ -14,6 +17,31 @@ body{
 
 .navbar-login{
     float: right;
+}
+
+.pagina {
+    display: block;
+    position:absolute;
+    height:auto;
+    bottom:0;
+    top:0;
+    left:0;
+    right:0;
+    margin-top:20px;
+    margin-bottom:20px;
+    z-index: 0;
+}
+
+/*Alterações titulo*/
+.titulo{
+    text-align: center;
+    z-index: 10;
+    display: inline-block;
+    position: relative;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 /*Alterações footer*/
