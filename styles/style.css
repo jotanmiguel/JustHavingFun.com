@@ -16,7 +16,8 @@ body{
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 20px 22px;
+    font-size: 150%;
     text-decoration: none;
 }
 
