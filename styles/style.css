@@ -19,6 +19,7 @@ body{
     padding: 20px 22px;
     font-size: 150%;
     text-decoration: none;
+    color: #a9a9a9;
 }
 
 .navbar-item, .navbar-login{
