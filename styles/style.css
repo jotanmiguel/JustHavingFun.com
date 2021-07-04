@@ -1,8 +1,12 @@
 /*Alterações gerais*/
 body{
-    background-color: #EFEFEF;
     margin:0;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*Alterações na página*/
+.pagina{
+    background-color: #EFEFEF;
 }
 
 /*Alterações navbar*/
