@@ -1,12 +1,12 @@
 /*Alterações gerais*/
 body{
+    background-color: #EFEFEF;
     margin:0;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 /*Alterações navbar*/
 .navbar{
-    background-color: gray;
     list-style-type: none;
     overflow: hidden;
     box-shadow: 0px 6px 8px #cecece;
