@@ -4,11 +4,13 @@ body{
 }
 */
 
+
+
 /*Alterações navbar*/
 .navbar{
-    z-index: 11;
-    position: relative;
     width: 100%;
+    position: relative;
+    z-index: 1;
 }
 
 .navbar-item, .navbar-login{
@@ -24,20 +26,18 @@ body{
     position:absolute;
     height:auto;
     bottom:0;
-    top:0;
+    top: 0;
     left:0;
     right:0;
-    margin-top:20px;
-    margin-bottom:20px;
-    z-index: 0;
+    margin-top: 67px;
+    margin-bottom: 49px;
 }
 
 /*Alterações titulo*/
 .titulo{
     text-align: center;
-    z-index: 10;
     display: inline-block;
-    position: relative;
+    position: absolute;
     margin: 0;
     top: 50%;
     left: 50%;
